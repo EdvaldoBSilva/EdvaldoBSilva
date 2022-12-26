@@ -1,8 +1,5 @@
 ## 👋 Hooola, soy Desarrollador de Software Java con REST API.
 
-<br>🌱 Implementación del Hibernate Validation, Mensajes personalizadas, etc</br>
-<br>🌱 Payload para tarjetas de credito/debito, notificación de validación de compra confirmada </br>
-<br>⚡ AWS Cloud / Azure Cloud / Oracle Cloud</br>
 
 <div align="center">
   <a href="https://github.com/EdvaldoBSilva">
@@ -24,5 +21,8 @@
 <img align="center" alt="Ed - Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 <img align="center" alt="Ed - GitLab" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg">
 <img align="center" alt="Ed - Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
+  </div>
   
-
+<br>🌱 Implementación del Hibernate Validation, Mensajes personalizadas, etc</br>
+<br>🌱 Payload para tarjetas de credito/debito, notificación de validación de compra confirmada </br>
+<br>⚡ AWS Cloud / Azure Cloud / Oracle Cloud</br>
