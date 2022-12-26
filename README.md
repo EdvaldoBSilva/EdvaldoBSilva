@@ -1,4 +1,11 @@
 ## 👋 Hooola, soy Desarrollador de Software Java con REST API.
+
+🌱 Implementación del Hibernate Validation, Mensajes personalizadas, etc. 
+🌱 Payload para tarjetas de credito/debito, notificación de validación de compra confirmada. 
+⚡ AWS Cloud 
+⚡ Oracle Cloud 
+
+
 <div align="center">
   <a href="https://github.com/EdvaldoBSilva">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EdvaldoBSilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
