@@ -21,8 +21,18 @@
 <img align="center" alt="Ed - Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 <img align="center" alt="Ed - GitLab" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg">
 <img align="center" alt="Ed - Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
-  </div>
+</div>
   
 <br>🌱 Implementación del Hibernate Validation, Mensajes personalizadas, etc</br>
 <br>🌱 Payload para tarjetas de credito/debito, notificación de validación de compra confirmada </br>
 <br>⚡ AWS Cloud / Azure Cloud / Oracle Cloud</br>
+
+## 
+
+<div>
+<a href="https://www.linkedin.com/in/ebsdev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  
+  
+
+  
+</div>
