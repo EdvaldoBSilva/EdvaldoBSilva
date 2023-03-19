@@ -12,6 +12,7 @@
 <div style="display: inline_block"><br>
 <img align="center" alt="Ed - Java" height="45" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 <img align="center" alt="Ed - Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
+<img align="center" alt="Ed - JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> 
 <img align="center" alt="Ed - Bootstrap" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
 <img align="center" alt="Ed - Android" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg">
 <img align="center" alt="Ed - Spring" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
@@ -23,9 +24,11 @@
 <img align="center" alt="Ed - Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
 </div>
   
-<br>🌱 Implementación del Hibernate Validation, Mensajes personalizadas, etc</br>
-<br>🌱 Payload para tarjetas de credito/debito, notificación de validación de compra confirmada </br>
-<br>⚡ AWS Cloud / Azure Cloud / Oracle Cloud</br>
+<br>🌱 Desarrollo de Micro Servicios en REST API con JavaScript y Bootstrap. </br>
+<br>🌱 Desarrollo de Micro Servicios en RESTFull con AngularJS. </br>
+<br>🌱 Desarrollo de Micro Servicios en REST API + RESTFull con JPA y PostgreSQL. </br>
+<br>🌱 Principales herramientas: Spring Boot, Micronaut, Maven, Github, Bitbucket, RabbitMQ y Postman. </br> 
+<br>⚡ Certificación Cloud Azure Z-900 (en proceso) </br>
 
 ## 
 
