@@ -27,12 +27,12 @@
 <br>🌱 Desarrollo de Micro Servicios en RESTFull con AngularJS. </br>
 <br>🌱 Desarrollo de Micro Servicios en REST API + RESTFull con JPA y PostgreSQL. </br>
 <br>🌱 Principales herramientas: Spring Boot, Micronaut, Maven, Github, Bitbucket, RabbitMQ y Postman. </br> 
-<br>⚡ Certificación Cloud Azure Z-900 (en proceso) </br>
+<br>⚡ Certificate: Oracle Cloud Data Management 2023 Certified Foundations Associate </br>
 
 ## 
 
  ![Snake animation](https://github.com/EdvaldoBSilva/EdvaldoBSilva/blob/output/github-contribution-grid-snake.svg)
 
 <div>
-<a href="https://www.linkedin.com/in/ebsdev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/ebs2/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
